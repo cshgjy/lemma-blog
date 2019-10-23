@@ -16,6 +16,15 @@
   desc: >
     Berliner weisse, dunkelweizen, hefeweizen, India pale ale, lambic, kölsch,
     märzenbier, pilsener, Vienna lager, weissbier.
+
+- name: 法规摘录
+  url: http://docq.cn/files/88dp3pe
+  date: 2019-now
+  thumbnail: https://raw.githubusercontent.com/cshgjy/images/master/other/191023220155.jpg
+  languages: [German, Dutch, English]
+  desc: >
+    收集日常应用法规，也便于个人随时查找。
+
 - name: Hello, world!
   date: early 2011
   languages: [JavaScript]
