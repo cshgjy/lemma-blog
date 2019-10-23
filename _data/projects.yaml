@@ -8,14 +8,34 @@
     Notion 是一款集大成的个人信息处理工具，主要用来处理
     大三类内容：文档、知识 和 任务，官方口号是 一个统一
     的笔记、知识、任务管理，并且能够多人协作的工作空间
-- name: Beer is the Best
-  url: https://en.wikipedia.org/wiki/Beer
-  date: 2012-now
-  thumbnail: /images/beer.jpg
+- name: Marknote
+  url: https://note.wusiyu.me/
+  date: 2019-now
+  thumbnail: https://raw.githubusercontent.com/cshgjy/images/master/other/20191024065311.jpg
   languages: [German, Dutch, English]
   desc: >
-    Berliner weisse, dunkelweizen, hefeweizen, India pale ale, lambic, kölsch,
-    märzenbier, pilsener, Vienna lager, weissbier.
+    一款轻量、支持markdown的树状折叠式云笔记，支持“图文、视频”，个人认为较适合记录不重要
+    的内容。据了解多年没有更新，安全性未知。
+
+- name: CoderDoc
+  url: http://www.coderdoc.cn/
+  date: 2019-now
+  thumbnail: https://raw.githubusercontent.com/cshgjy/images/master/other/20191024065605.jpg
+  languages: [German, Dutch, English]
+  desc: >
+    一款文档在线编辑与分享平台，较适用于‘说明文档’之类的，可带密码分享文件或
+    个项目，树状折叠式云笔记，手机打开分享文件体验较好，整体ok（缺点：不支持
+    视频嵌入）。
+
+- name: docq
+  url: http://docq.cn/
+  date: 2019-now
+  thumbnail: https://raw.githubusercontent.com/cshgjy/images/master/other/20191024072728.jpg
+  languages: [German, Dutch, English]
+  desc: >
+    一款‘单文档’在线编辑共享平台，最大的优点是：1、支持上传pdf\word\excel
+    \txt\演示文稿；2、支持'带密码'分享文件;3、分享文档‘可在线编辑’（除pdf外）。4、打开分享
+    文件超快。缺点：微信打不开分享文件；上传文件大小受限制。
 
 - name: 法规摘录
   url: http://docq.cn/files/88dp3pe
