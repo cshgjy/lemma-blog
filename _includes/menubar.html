@@ -4,7 +4,7 @@
     <li {% if page.url == "/archives.html" %}class="active"{% endif %}>
       <a href="{{ site.baseurl }}/archives.html">
         <i class="fa fa-fw fa-archive"></i>
-        Archives
+        档案
         <span class="badge hidden-xs pull-right">
           {{ site.posts | size }}
         </span>
@@ -13,7 +13,7 @@
     <li {% if page.url == "/tags.html" %}class="active"{% endif %}>
       <a href="{{ site.baseurl }}/tags.html">
         <i class="fa fa-fw fa-tags"></i>
-        Tags
+        标签
         <span class="badge hidden-xs pull-right">
           {{ site.tags | size }}
         </span>
@@ -22,12 +22,12 @@
   </ul>
 </div>
 <div class="col-xs-6 col-sm-12">
-  <h3>Everything</h3>
+  <h3>全部</h3>
   <ul class="nav nav-pills nav-stacked" role="tablist">
     <li {% if page.url == "/projects.html" %}class="active"{% endif %}>
       <a href="{{ site.baseurl }}/projects.html">
         <i class="fa fa-fw fa-flask"></i>
-        Projects
+        项目
         <span class="badge hidden-xs pull-right">
           {{ site.data.projects | size }}
         </span>
@@ -36,7 +36,7 @@
     <li {% if page.url == "/about.html" %}class="active"{% endif %}>
       <a href="{{ site.baseurl }}/about.html">
         <i class="fa fa-fw fa-user"></i>
-        About Me
+        关于我
       </a>
     </li>
   </ul>

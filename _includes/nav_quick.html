@@ -17,19 +17,19 @@
 
 <div class="hidden-xs col-sm-12" id="roaming-pager">
   {% if older or newer %}
-    <h3>Quick Navigation</h3>
+    <h3>快速导航</h3>
     <ul class="pager" id="full-pager">
       <li id="roaming-pager-newer">
         {% capture disabled %}{% unless newer %}disabled{% endunless %}{% endcapture %}
         <a href="{{ newer }}" class="btn btn-default {{ disabled }}">
           <span>&laquo;</span>
-          <span class="hidden-xs">Newer</span>
+          <span class="hidden-xs">新的</span>
         </a>
       </li>
       <li id="roaming-pager-older">
         {% capture disabled %}{% unless older %}disabled{% endunless %}{% endcapture %}
         <a href="{{ older }}" class="btn btn-default {{ disabled }}">
-          <span class="hidden-xs">Older</span>
+          <span class="hidden-xs">旧的</span>
           <span>&raquo;</span>
         </a>
       </li>
