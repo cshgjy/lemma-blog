@@ -37,6 +37,14 @@
     \txt\演示文稿；2、支持'带密码'分享文件;3、分享文档‘可在线编辑’（除pdf外）。4、打开分享
     文件超快。缺点：微信打不开分享文件；上传文件大小受限制。
 
+- name: study-video
+  url: https://cshgjy.github.io/study-video/
+  date: 2019-now
+  thumbnail: https://raw.githubusercontent.com/cshgjy/images/master/other/191024081008.jpg
+  languages: [German, Dutch, English]
+  desc: >
+    B站视频收集
+
 - name: 法规摘录
   url: http://docq.cn/files/88dp3pe
   date: 2019-now
